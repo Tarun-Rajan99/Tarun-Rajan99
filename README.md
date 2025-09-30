@@ -1,17 +1,14 @@
-## Hi, my name is Tarun 👋
+## Hi, I'm Tarun Rajan
 
 ---
 
-I am currently studying an MSc in Statistics at [Imperial](https://www.imperial.ac.uk/study/courses/postgraduate-taught/statistics/).
+I am currently studying an MSc in Statistics at [Imperial](https://www.imperial.ac.uk/study/courses/postgraduate-taught/statistics/). Previously, I graduated with a BSc in Finanical Mathematics and Statistics from the London School of Economics.
 
-Previously, I graduated from the London School of Economics.
+Some of my hobbies are:
 
-Some of my favourite modules from my undergraduate were:
+- Football
+- Cricket
+- Tennis
 
-- Stochastic Processes
-- Probability
-- Statistical inference
 
-Here is a link to the [Stochastic Process module](https://www.lse.ac.uk/resources/calendar2023-2024/courseGuides/ST/2023_ST302.htm).
 
-30-08-2025
