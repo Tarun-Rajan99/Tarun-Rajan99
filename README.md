@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, my name is Tarun 👋
 
-<!--
-**Tarun-Rajan99/Tarun-Rajan99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently studying an MSc in Statistics at Imperial.
 
-Here are some ideas to get you started:
+Previously, I graduated from the London School of Economics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some of my favourite modules from my undergraduate were:
+
+- Stochastic Processes
+- Probability
+- Statistical inference
+
+Here is a link to the [Stochastic Process module](https://www.lse.ac.uk/resources/calendar2023-2024/courseGuides/ST/2023_ST302.htm).
+
+
