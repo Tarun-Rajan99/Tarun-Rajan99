@@ -1,4 +1,4 @@
-# Hi, my name is Tarun 👋
+## Hi, my nam is Tarun 👋
 
 I am currently studying an MSc in Statistics at Imperial.
 
@@ -10,6 +10,6 @@ Some of my favourite modules from my undergraduate were:
 - Probability
 - Statistical inference
 
-Here is a link to the [Stochastic Process module](https://www.lse.ac.uk/resources/calendar2023-2024/courseGuides/ST/2023_ST302.htm).
+Here is a link to the [Stochastic Process odule](https://www.lse.ac.uk/resources/calendar2023-2024/courseGuides/ST/2023_ST302.htm).
 
 
