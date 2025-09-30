@@ -1,4 +1,4 @@
-## Hi, my nam is Tarun 👋
+## Hi, my name is Tarun 👋
 
 I am currently studying an MSc in Statistics at Imperial.
 
