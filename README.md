@@ -1,5 +1,7 @@
 ## Hi, my name is Tarun 👋
 
+---
+
 I am currently studying an MSc in Statistics at [Imperial](https://www.imperial.ac.uk/study/courses/postgraduate-taught/statistics/).
 
 Previously, I graduated from the London School of Economics.
@@ -11,4 +13,3 @@ Some of my favourite modules from my undergraduate were:
 - Statistical inference
 
 Here is a link to the [Stochastic Process module](https://www.lse.ac.uk/resources/calendar2023-2024/courseGuides/ST/2023_ST302.htm).
-
